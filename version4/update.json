@@ -1,0 +1,21 @@
+{
+	"name": "Зарадки Ведьмы",
+	"version": "4",
+	"package": "witch_riddle.pck",
+	"loaded": true,
+	"line1": "res://global/game_levels.json",
+	"line2": "res://global/merits_data.json",
+	"line3": "",
+	"line4": "res://sounds/",
+	"line5": "",
+	"line6": "res://levels/subjects/russian_language/witch_riddle",
+	"line7": "res://levels/biblio/",
+	"check1": true,
+	"check2": true,
+	"check3": false,
+	"check4": true,
+	"check5": false,
+	"check6": true,
+	"check7": true,
+	"minor_fixes": "res://global/home.gd \nres://levels/subjects/russian_language/undine/undine.gd\n"
+}
