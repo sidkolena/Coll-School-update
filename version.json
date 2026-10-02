@@ -1,20 +1,4 @@
 {
-	"latest_version": 4,
-	"updates": [
-		{
-			"version": 2,
-			"name": "Sound",
-			"package": "sound.pck"
-		},
-		{
-			"version": 3,
-			"name": "Test 33",
-			"package": "test33.pck"
-		},
-		{
-			"version": 4,
-			"name": "Загадки Ведьмы",
-			"package": "witch_riddle.pck"
-		}
-	]
+	"latest_version": 1,
+	"updates": []
 }
